@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+
+<html>
+
+<head>
+	<title>Lost Minecraft Miners</title>
+	 <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<img id="logo" src="customLogo.png">
+
+<style>
+body {
+    background-image: url("grass.png");
+	background-size: 99%;
+}
+</style>
+
+<body>
+<div class="sideblur">
+</div>
+<div class="sidenav">
+  <a href="https://www.lostminecraftminers.org">Home</a>
+  <a href="https://www.lostminecraftminers.org/about">About</a>
+  <a href="https://www.lostminecraftminers.org/faq">FAQ</a>
+  <a href="https://www.lostminecraftminers.org/cf">Current Findings</a>
+  <a href="https://www.lostminecraftminers.org/contact">Contact</a>
+  <a href="https://www.lostminecraftminers.org/donate">Donate/Mine</a>
+</div>
+
+
+
+<div class="main">
+	<h2>Lost Minecraft Miners</h2>
+	<p>We are the Lost Minecraft Miners, and we work to help restore the history of Minecraft  by finding lost versions, and placing them back in the launcher.</p>
+</div>
+</body>
+
+</html>
